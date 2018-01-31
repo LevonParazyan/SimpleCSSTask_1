@@ -1,0 +1,66 @@
+#green_area {
+	margin:auto;
+	background-color:#9CBC2B;
+	width:700px;
+	padding-bottom:15px;
+}
+.steps {
+	padding: 15px;
+    color: #516613;
+    font-size: 22px;
+}
+.input_blocks {
+	margin: 0 15px;
+    padding: 15px 0;
+    background-color: #B9CF6A;
+    border-radius: 7px;
+    border: 1px solid #DFF0A9;
+	margin-top:2px;
+}
+input {
+    font-style: italic;
+    padding: 5px;
+    border: none;
+	outline:none;
+	width: 180px;
+	border-radius:4px;
+}
+span {
+	font-family: sans-serif;
+    font-weight:bold;
+	display: inline-block;
+    width: 360px;
+    text-indent: 20px;
+}
+.input {
+	display:inline-block;
+}
+textarea {
+	outline: none;
+    border: none;
+	border-radius:4px;
+}
+#card_type {
+	margin: 0 15px;
+    padding: 20px 0;
+    background-color: #B9CF6A;
+    border-radius: 7px;
+    border: 1px solid #DFF0A9;
+	margin-top:2px;
+}
+img {
+	width:30px;
+	height:18px;
+}
+.input_radio {
+	width:15px !important;
+	margin-left: 20px;
+    margin-top: 10px;
+}
+#adress {
+	vertical-align:top;
+}
+#radio {
+	font-family: sans-serif;
+    font-weight: bold;
+}
